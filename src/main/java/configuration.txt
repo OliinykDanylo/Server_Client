@@ -1,0 +1,3 @@
+port=1818
+name=DanyloOliinykServer
+bannedPhrases=badPhrase1,badPhrase2,badPhrase3
